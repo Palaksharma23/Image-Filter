@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+}
+body {
+		background: #30292F;
+    color : #4A589A;
+}
+#head {
+  text-decoration: none;
+}
+
+.header {
+  font-size: 1.5em;
+  padding-left: 10px;
+  margin-left: 40px;
+  font-family: 'Metal Mania', cursive;
+}
+.canvas {
+  border: 2px solid #5F5AA2;
+  width: 60%;
+  height: 500px;
+  margin-left: 50px;
+  float: left;
+}
+canvas {
+  height: 496px;
+  width: 100%
+}
+.buttons {
+  width: 30%;
+  float: left;
+  background: #5F5AA2;
+  height: 500px;
+  color: #CDCED2;
+}
+.filter-button {
+  margin: 20px;
+	float: left;
+}
+.filter {
+  float: left;
+  margin: 5px;
+  text-align: center;
+}
+.other-button {
+margin-left:20px;
+}
